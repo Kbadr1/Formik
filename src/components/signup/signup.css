@@ -1,0 +1,15 @@
+.Signup{
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.Signup .title {
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.Signup .submit-button {
+  margin-top: 12px;
+}

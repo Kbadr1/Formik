@@ -1,0 +1,30 @@
+.Home {
+  text-align: center;
+}
+
+.Home h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.Home span {
+  font-weight: 300;
+}
+.Home h6 {
+  margin-top: 10px;
+}
+.Home .buttons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Home .buttons button {
+  padding: 0;
+}
+
+.Home a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 30px;
+}
