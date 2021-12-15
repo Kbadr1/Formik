@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Reactjs_Formik_Yup-Validation_Material-ui/static/css/main.5463d992.chunk.css",
-    "main.js": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/main.6f01c41b.chunk.js",
-    "main.js.map": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/main.6f01c41b.chunk.js.map",
-    "runtime-main.js": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/runtime-main.8c3648f7.js",
-    "runtime-main.js.map": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/runtime-main.8c3648f7.js.map",
-    "static/js/2.2dc73722.chunk.js": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/2.2dc73722.chunk.js",
-    "static/js/2.2dc73722.chunk.js.map": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/2.2dc73722.chunk.js.map",
-    "static/js/3.b206e327.chunk.js": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/3.b206e327.chunk.js",
-    "static/js/3.b206e327.chunk.js.map": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/3.b206e327.chunk.js.map",
-    "index.html": "/Reactjs_Formik_Yup-Validation_Material-ui/index.html",
-    "static/css/main.5463d992.chunk.css.map": "/Reactjs_Formik_Yup-Validation_Material-ui/static/css/main.5463d992.chunk.css.map",
-    "static/js/2.2dc73722.chunk.js.LICENSE.txt": "/Reactjs_Formik_Yup-Validation_Material-ui/static/js/2.2dc73722.chunk.js.LICENSE.txt"
+    "main.css": "/Formik/static/css/main.5463d992.chunk.css",
+    "main.js": "/Formik/static/js/main.0e8d6626.chunk.js",
+    "main.js.map": "/Formik/static/js/main.0e8d6626.chunk.js.map",
+    "runtime-main.js": "/Formik/static/js/runtime-main.d2f3ac78.js",
+    "runtime-main.js.map": "/Formik/static/js/runtime-main.d2f3ac78.js.map",
+    "static/js/2.2dc73722.chunk.js": "/Formik/static/js/2.2dc73722.chunk.js",
+    "static/js/2.2dc73722.chunk.js.map": "/Formik/static/js/2.2dc73722.chunk.js.map",
+    "static/js/3.b206e327.chunk.js": "/Formik/static/js/3.b206e327.chunk.js",
+    "static/js/3.b206e327.chunk.js.map": "/Formik/static/js/3.b206e327.chunk.js.map",
+    "index.html": "/Formik/index.html",
+    "static/css/main.5463d992.chunk.css.map": "/Formik/static/css/main.5463d992.chunk.css.map",
+    "static/js/2.2dc73722.chunk.js.LICENSE.txt": "/Formik/static/js/2.2dc73722.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c3648f7.js",
+    "static/js/runtime-main.d2f3ac78.js",
     "static/js/2.2dc73722.chunk.js",
     "static/css/main.5463d992.chunk.css",
-    "static/js/main.6f01c41b.chunk.js"
+    "static/js/main.0e8d6626.chunk.js"
   ]
 }
